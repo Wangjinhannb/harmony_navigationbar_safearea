@@ -1,0 +1,4 @@
+interface:
+  display_name: "Harmony Navigation + Safe Area"
+  short_description: "Port polished ArkUI bottom navigation and dynamic safe-area behavior."
+  brand_color: "#111111"
